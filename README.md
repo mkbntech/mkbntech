@@ -27,10 +27,6 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ---
 
-### 📺 Latest Technical Deep Dives
-
----
-
 ### 🌟 Featured Content from Mkbn Tech
 
 > [!IMPORTANT]
