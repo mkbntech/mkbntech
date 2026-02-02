@@ -16,7 +16,6 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the intersection of **DevOps and Agentic AI**. I build **self-healing infrastructure** and share deep-dive tutorials via **Mkbn Tech**.
 
@@ -24,21 +23,11 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 * 🎥 **YouTube Content:** I `simplify complex architectures`—from setting up `HA Kubernetes clusters` to production-ready `GitOps pipelines`.
 * ⚙️ **Tech Stack:** Specialized in `Platform Engineering` (K8s, OpenShift) and `AI-Driven Operations` (LLMs, K8sGPT).
 * 💬 **Let's Talk:** Ask me about building `Local LLM workflows` for infrastructure or optimizing `Calico Networking`.
-
 ---
 
 ### 🌟 Featured Content from Mkbn Tech
 
-> [!IMPORTANT]
-> Check out my top-rated guides on Platform Engineering and AI.
-
-<p align="center">
-  <br />
-  <a href="https://www.youtube.com/channel/UCrScDsPZSceXgZOLJGrOOIw"><b>View All Tutorials →</b></a>
-</p>
-
 ---
-
 ### 🛠️ Tech Stack & Tooling
 | Category | Tools |
 | :--- | :--- |
@@ -47,7 +36,6 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 | **Development & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama) |
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
