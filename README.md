@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Mkbn%20Tech&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Learn |%20 Build |%20Automate%20|%20Succeed" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mkbn%20Tech&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Learn%20|%20Build%20|%20Automate%20|%20Succeed&descAlignY=60&descSize=20" width="100%" />
 </div>
 
 <p align="center">
@@ -31,7 +31,8 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ---
 
-### 🌟 Popular Technical Deep Dives
+### 🌟 Featured Content from Mkbn Tech
+
 > [!IMPORTANT]
 > Check out my top-rated guides on Platform Engineering and AI.
 
