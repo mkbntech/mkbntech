@@ -1,0 +1,22 @@
+name: Latest YouTube Videos
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update README with 3 videos
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrScDsPZSceXgZOLJGrOOIw"
+          max_post_count: 3
+          template: "$newline * [ $title ]($url)"
