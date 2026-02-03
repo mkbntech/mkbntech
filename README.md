@@ -27,6 +27,9 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ### 🌟 Featured Content from Mkbn Tech
 
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ---
 ### 🛠️ Tech Stack & Tooling
 | Category | Tools |
