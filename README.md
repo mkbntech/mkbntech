@@ -27,7 +27,16 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ### 🌟 Featured Content from Mkbn Tech
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5GJWZIOXyIE"><img width="140px" src="https://i.ytimg.com/vi/5GJWZIOXyIE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5GJWZIOXyIE">I Built an AI SRE Team That Runs 24/7 Inside Kubernetes !!</a><br/>Jan 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2i88-mXHYBM"><img width="140px" src="https://i.ytimg.com/vi/2i88-mXHYBM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2i88-mXHYBM">Stop Struggling with kubeadm – Spin Up a Kubernetes Cluster the Kubespray Way!</a><br/>Jan 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=o_2sdSTJR0s"><img width="140px" src="https://i.ytimg.com/vi/o_2sdSTJR0s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o_2sdSTJR0s">Build Self-Hosted Enterprise‑grade Container Registry in 20 Mins ! Harbor + Kubernetes + Traefik !!</a><br/>Jan 13, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/Zn2JXKafBrM"><img width="140px" src="https://i.ytimg.com/vi/Zn2JXKafBrM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/Zn2JXKafBrM">You&#39;re First Complete DevOps Project🔥</a><br/>Jan 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fssCjFHGzpc"><img width="140px" src="https://i.ytimg.com/vi/fssCjFHGzpc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fssCjFHGzpc">The Ultimate DevOps Project: CI/CD Pipeline with Docker, Kubernetes, ArgoCD &amp; GitHub Actions !</a><br/>Jan 6, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
