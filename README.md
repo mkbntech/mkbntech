@@ -30,7 +30,7 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/wxV6wXcnz-w"><img width="140px" src="https://i.ytimg.com/vi/wxV6wXcnz-w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/wxV6wXcnz-w">The Ultimate DevSecOps Pipeline: Zero to Production &lpar;Step-by-Step&rpar; #devsecops #devops #cicd</a><br/>Feb 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tEnT7RlQqa4"><img width="140px" src="https://i.ytimg.com/vi/tEnT7RlQqa4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tEnT7RlQqa4">Stop Using Insecure CI/CD! Build a DevSecOps Pipeline from Scratch!</a><br/>Feb 10, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=tEnT7RlQqa4">Build a End-To-End DevSecOps Pipeline from Scratch!</a><br/>Feb 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5GJWZIOXyIE"><img width="140px" src="https://i.ytimg.com/vi/5GJWZIOXyIE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5GJWZIOXyIE">I Built an AI SRE Team That Runs 24/7 Inside Kubernetes !!</a><br/>Jan 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2i88-mXHYBM"><img width="140px" src="https://i.ytimg.com/vi/2i88-mXHYBM/mqdefault.jpg"></a></td>
