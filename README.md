@@ -27,7 +27,9 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ### 🌟 Featured Content from Mkbn Tech
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jWD7KtcoJJc"><img width="140px" src="https://i.ytimg.com/vi/jWD7KtcoJJc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=i2_Bpd48pRU"><img width="140px" src="https://i.ytimg.com/vi/i2_Bpd48pRU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=i2_Bpd48pRU">Stop Using Old K8s Dashboards! Meet RADAR – The Kubernetes IDE You Didn’t Know You Needed!</a><br/>Mar 1, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jWD7KtcoJJc"><img width="140px" src="https://i.ytimg.com/vi/jWD7KtcoJJc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jWD7KtcoJJc">Podman for Absolute Beginners &lpar;Crash Course&rpar;!</a><br/>Feb 17, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/wxV6wXcnz-w"><img width="140px" src="https://i.ytimg.com/vi/wxV6wXcnz-w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/wxV6wXcnz-w">The Ultimate DevSecOps Pipeline: Zero to Production &lpar;Step-by-Step&rpar; #devsecops #devops #cicd</a><br/>Feb 10, 2026</td></tr></table>
@@ -35,8 +37,6 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 <td><a href="https://www.youtube.com/watch?v=tEnT7RlQqa4">Build a End-To-End DevSecOps Pipeline from Scratch!</a><br/>Feb 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5GJWZIOXyIE"><img width="140px" src="https://i.ytimg.com/vi/5GJWZIOXyIE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5GJWZIOXyIE">I Built an AI SRE Team That Runs 24/7 Inside Kubernetes !!</a><br/>Jan 28, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2i88-mXHYBM"><img width="140px" src="https://i.ytimg.com/vi/2i88-mXHYBM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2i88-mXHYBM">Stop Struggling with kubeadm – Spin Up a Kubernetes Cluster the Kubespray Way!</a><br/>Jan 18, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
