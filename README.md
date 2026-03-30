@@ -27,7 +27,9 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ### 🌟 Featured Content from Mkbn Tech
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Z_lTLUZxOBk"><img width="140px" src="https://i.ytimg.com/vi/Z_lTLUZxOBk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FPMgrQx5b-w"><img width="140px" src="https://i.ytimg.com/vi/FPMgrQx5b-w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FPMgrQx5b-w">Part 2: OpenShift Pipelines - End-to-End CI/CD in 30 Minutes</a><br/>Mar 29, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Z_lTLUZxOBk"><img width="140px" src="https://i.ytimg.com/vi/Z_lTLUZxOBk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z_lTLUZxOBk">Part 1: Red Hat OpenShift for Absolute Beginners &lpar;The Only Guide You Need&rpar;</a><br/>Mar 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BXj3hdTDOKc"><img width="140px" src="https://i.ytimg.com/vi/BXj3hdTDOKc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BXj3hdTDOKc">vCluster in Docker &lpar;&#39;vind&#39;&rpar;: The Ultimate Local Kubernetes Setup</a><br/>Mar 11, 2026</td></tr></table>
@@ -35,8 +37,6 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 <td><a href="https://www.youtube.com/watch?v=i2_Bpd48pRU">Stop Using Old K8s Dashboards! Meet RADAR – The Kubernetes IDE You Didn’t Know You Needed!</a><br/>Mar 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jWD7KtcoJJc"><img width="140px" src="https://i.ytimg.com/vi/jWD7KtcoJJc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jWD7KtcoJJc">Podman for Absolute Beginners &lpar;Crash Course&rpar;!</a><br/>Feb 17, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/wxV6wXcnz-w"><img width="140px" src="https://i.ytimg.com/vi/wxV6wXcnz-w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/wxV6wXcnz-w">The Ultimate DevSecOps Pipeline: Zero to Production &lpar;Step-by-Step&rpar; #devsecops #devops #cicd</a><br/>Feb 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
