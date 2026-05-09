@@ -27,7 +27,9 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ### 🌟 Featured Content from Mkbn Tech
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DlRS5FwA06U"><img width="140px" src="https://i.ytimg.com/vi/DlRS5FwA06U/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x88fmX110G0"><img width="140px" src="https://i.ytimg.com/vi/x88fmX110G0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=x88fmX110G0">Zero-Config Azure MCP: Connect Claude in Seconds</a><br/>May 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DlRS5FwA06U"><img width="140px" src="https://i.ytimg.com/vi/DlRS5FwA06U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DlRS5FwA06U">Stop Managing Kubernetes Clusters One by One  - Do This Instead !</a><br/>May 3, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jTGDN97gRjk"><img width="140px" src="https://i.ytimg.com/vi/jTGDN97gRjk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jTGDN97gRjk">Kubernetes + AI Just Got Dangerous: Meet kagent</a><br/>Apr 26, 2026</td></tr></table>
@@ -35,8 +37,6 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 <td><a href="https://www.youtube.com/watch?v=7HwzfW1K-lU">Ask Claude About Your Kubernetes Cluster – Live Demo &lpar;MCP Magic&rpar;</a><br/>Apr 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4S1MJW938aY"><img width="140px" src="https://i.ytimg.com/vi/4S1MJW938aY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4S1MJW938aY">Run Linux &amp; Windows VMs on OpenShift &lpar;Full Virtualization Demo&rpar;</a><br/>Apr 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FPMgrQx5b-w"><img width="140px" src="https://i.ytimg.com/vi/FPMgrQx5b-w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FPMgrQx5b-w">Part 2: OpenShift Pipelines - End-to-End CI/CD in 30 Minutes</a><br/>Mar 29, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
