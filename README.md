@@ -36,7 +36,7 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 <table><tr><td><a href="https://www.youtube.com/watch?v=7HwzfW1K-lU"><img width="140px" src="https://i.ytimg.com/vi/7HwzfW1K-lU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7HwzfW1K-lU">Ask Claude About Your Kubernetes Cluster – Live Demo &lpar;MCP Magic&rpar;</a><br/>Apr 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4S1MJW938aY"><img width="140px" src="https://i.ytimg.com/vi/4S1MJW938aY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4S1MJW938aY">Run Linux &amp; Windows VMs on OpenShift &lpar;Full Virtualization Demo&rpar;</a><br/>Apr 6, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=4S1MJW938aY">Part 3: Run Linux &amp; Windows VMs on OpenShift &lpar;Full Virtualization Demo&rpar;</a><br/>Apr 6, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
