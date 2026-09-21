@@ -27,7 +27,9 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ### 🌟 Featured Content from Mkbn Tech
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CmrsAaxZrPM"><img width="140px" src="https://i.ytimg.com/vi/CmrsAaxZrPM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7y-JO4bSPqg"><img width="140px" src="https://i.ytimg.com/vi/7y-JO4bSPqg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7y-JO4bSPqg">Stop Using Shared Staging! Build Ephemeral Environments with Argo CD</a><br/>Sep 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CmrsAaxZrPM"><img width="140px" src="https://i.ytimg.com/vi/CmrsAaxZrPM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CmrsAaxZrPM">Zero to Production: A Complete GitOps CI/CD Platform on OpenShift!</a><br/>Aug 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0Rs1mMiFTBI"><img width="140px" src="https://i.ytimg.com/vi/0Rs1mMiFTBI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0Rs1mMiFTBI">How Modern Platform Teams ACTUALLY Deploy to Kubernetes.</a><br/>Aug 1, 2026</td></tr></table>
@@ -35,8 +37,6 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 <td><a href="https://www.youtube.com/watch?v=vtkEd8QS5p8">Run AWS, Azure, and GCP Locally on Your Laptop</a><br/>Jun 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uyKcb_jXgb4"><img width="140px" src="https://i.ytimg.com/vi/uyKcb_jXgb4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uyKcb_jXgb4">From kubeadmin to Corporate SSO – Real World OpenShift Authentication &amp; RBAC</a><br/>Jun 21, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7jFnzBQ5E64"><img width="140px" src="https://i.ytimg.com/vi/7jFnzBQ5E64/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7jFnzBQ5E64">Make Your OpenShift Apps Production Ready Storage, Health Checks, Autoscaling &amp; RBAC</a><br/>Jun 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
