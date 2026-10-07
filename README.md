@@ -27,7 +27,9 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ### 🌟 Featured Content from Mkbn Tech
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wXSIgwyIRaI"><img width="140px" src="https://i.ytimg.com/vi/wXSIgwyIRaI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/GuKOWer1WzA"><img width="140px" src="https://i.ytimg.com/vi/GuKOWer1WzA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/GuKOWer1WzA">Why Kubernetes Pods Get OOMKilled &amp; The Exact Fix #kubernetes #devops #openshift</a><br/>Oct 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wXSIgwyIRaI"><img width="140px" src="https://i.ytimg.com/vi/wXSIgwyIRaI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wXSIgwyIRaI">The Zero Downtime Production OpenShift HA Cluster Upgrade !</a><br/>Oct 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/vKYqwRfdVeU"><img width="140px" src="https://i.ytimg.com/vi/vKYqwRfdVeU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/vKYqwRfdVeU">Stop Confusing Kubernetes With OpenShift In Under 60 Seconds ! #devops #kubernetes #openshift</a><br/>Sep 28, 2026</td></tr></table>
@@ -35,8 +37,6 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 <td><a href="https://www.youtube.com/shorts/D_VZzG31xsY">Why DevOps Engineers Are Quietly Replacing Docker with Podman ! #devops  #docker  #podman</a><br/>Sep 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7y-JO4bSPqg"><img width="140px" src="https://i.ytimg.com/vi/7y-JO4bSPqg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7y-JO4bSPqg">Stop Using Shared Staging! Build Ephemeral Environments with Argo CD</a><br/>Sep 21, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CmrsAaxZrPM"><img width="140px" src="https://i.ytimg.com/vi/CmrsAaxZrPM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CmrsAaxZrPM">Zero to Production: A Complete GitOps CI/CD Platform on OpenShift!</a><br/>Aug 21, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
