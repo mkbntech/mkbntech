@@ -27,7 +27,9 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 
 ### 🌟 Featured Content from Mkbn Tech
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/CwCfBm3Bj7g"><img width="140px" src="https://i.ytimg.com/vi/CwCfBm3Bj7g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/qDEGeCblXOo"><img width="140px" src="https://i.ytimg.com/vi/qDEGeCblXOo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/qDEGeCblXOo">Zero-Config Azure MCP #devops #azure #mcp</a><br/>Oct 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/CwCfBm3Bj7g"><img width="140px" src="https://i.ytimg.com/vi/CwCfBm3Bj7g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/CwCfBm3Bj7g">Run AWS Locally on Your Laptop! #aws #cloudcomputing #devops</a><br/>Oct 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/J026hqfaQmc"><img width="140px" src="https://i.ytimg.com/vi/J026hqfaQmc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/J026hqfaQmc">The Zero Downtime Production OpenShift HA Cluster Upgrade ! #devops #openshift</a><br/>Oct 21, 2026</td></tr></table>
@@ -35,8 +37,6 @@ I am a **Lead Platform Engineer** and **Cloud Native Architect** focused on the 
 <td><a href="https://www.youtube.com/shorts/rGPic_f-DUQ">Build Ephemeral Environments with Argo CD #devops  #kubernetes</a><br/>Oct 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/GuKOWer1WzA"><img width="140px" src="https://i.ytimg.com/vi/GuKOWer1WzA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/GuKOWer1WzA">Why Kubernetes Pods Get OOMKilled &amp; The Exact Fix #kubernetes #devops #openshift</a><br/>Oct 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wXSIgwyIRaI"><img width="140px" src="https://i.ytimg.com/vi/wXSIgwyIRaI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wXSIgwyIRaI">The Zero Downtime Production OpenShift HA Cluster Upgrade !</a><br/>Oct 2, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ---
